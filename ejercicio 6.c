@@ -4,7 +4,8 @@ aumento de sueldo*/
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float sueldo, aumento;
 
     printf("Ingresa el sueldo: ");
