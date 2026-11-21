@@ -4,7 +4,8 @@ tasa de nteres mensual*/
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float capital, tasa, monto;
 
     printf("Ingresa la cantidad invertida: ");
