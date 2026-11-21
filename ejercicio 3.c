@@ -4,7 +4,8 @@ casa de cambio*/
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float dolares, pesos;
 
     printf("Ingresa la cantidad en dolares: ");
