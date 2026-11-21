@@ -4,7 +4,8 @@ productos electrodomesticos*/
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float compra, total;
 
     printf("Ingresa el monto de la compra: ");
