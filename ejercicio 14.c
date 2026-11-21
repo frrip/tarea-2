@@ -4,7 +4,8 @@ contar cuantas veces aparece el mismo numero en un arreglo*/
 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int arreglo[100];
     int N, numero, contador = 0;
     int i;
